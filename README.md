@@ -22,7 +22,7 @@ Arduino Tutorial. HowToMechatronics. https://howtomechatronics.com/tutorials/ard
 
 - Dubey, A. (2020, August 22). How to improve readings of
 Ultrasonic Sensor - Temperature and Humidity
-Compensation. NerdyElectronics. https://nerdyelectronics.com/embedded-systems/sensors/ how-to-improve-readingsof-ultrasonic-sensor-temperature-and-humiditycompensation/
+Compensation. NerdyElectronics. https://nerdyelectronics.com/embedded-systems/sensorshow-to-improve-readingsof-ultrasonic-sensor-temperature-and-humiditycompensation/
 
 - Fmalpartida. (2020, November 24). New-LiquidCrystal.
 GitHub Repository, https://github.com/fmalpartida/NewLiquidCrystal
