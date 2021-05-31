@@ -30,4 +30,10 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 .DS_Store
+=======
+
+# Others
+*.DS_Store
+>>>>>>> aad8f592064f95d9712ac03b34e35e907d2d0ecc
